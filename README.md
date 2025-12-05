@@ -22,7 +22,7 @@ DevTrack is a developer-focused learning and productivity platform that provides
 **GitHub Repo:** [https://github.com/your-repo-link  ](https://github.com/Paramjitsaikia001/trackofdev)
 
 ### 🔹 **Backing-Platform** 
-A secure all-in-one banking web application built with Node.js, Express, MongoDB, and Firebase that enables users to manage accounts, transfer funds, and track transactions. Features include authentication, real-time balance updates, and a user-friendly dashboard. 
+A secure all-in-one banking web application built with Node.js, Express, MongoDB, and Firebase that enables users to manage accounts, transfer funds, and track transactions. Features include authentication, real-time balance updates, and a user-friendly dashboard.
 **Live Demo:** [https://your-coworkassam-live-link.com](https://banking-platform-three.vercel.app)  
 **GitHub Repo:**[ https://github.com/your-repo-link  ](https://github.com/Paramjitsaikia001/banking-platform)
 
